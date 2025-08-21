@@ -77,12 +77,12 @@ DeviceFileEvents
 ## Created By:
 - **Author Name**: Arthur Lau
 - **Author Contact**: https://www.linkedin.com/in/arthur-lau-4a7403172/
-- **Date**: August 31, 2024
+- **Date**: August 31, 2025
 
 ## Validated By:
 - **Reviewer Name**: Josh Madakor
 - **Reviewer Contact**: https://www.linkedin.com/in/joshmadakor/
-- **Validation Date**: August 31, 2024
+- **Validation Date**: August 31, 2025
 
 ---
 
@@ -94,4 +94,4 @@ DeviceFileEvents
 ## Revision History:
 | **Version** | **Changes**                   | **Date**         | **Modified By**   |
 |-------------|-------------------------------|------------------|-------------------|
-| 1.0         | Initial draft                  | `September  6, 2024`  | `Arthur Lau`   
+| 1.0         | Initial draft                  | `September  6, 2025`  | `Arthur Lau`   
